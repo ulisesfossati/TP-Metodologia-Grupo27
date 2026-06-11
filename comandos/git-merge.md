@@ -4,7 +4,7 @@ El comando `git merge` integra los cambios de una rama dentro de otra.
 
 ## Ejemplo
 
-Primero nos ubicamos en la rama que recibirá los cambios:
+Primero nos ubicamos en la rama que recibirá los cambios :
 
 ```bash
 git switch main
