@@ -4,7 +4,7 @@ Este repositorio contiene el **Trabajo Práctico de Git de la materia Metodolog�
 
 El objetivo del trabajo es explicar los comandos de **Git** vistos en clase. Para eso, se crearon distintos archivos en formato Markdown (`.md`) con una explicación simple y ejemplos de uso.
 
-El trabajo fue realizado por **Ulises Fossati, Federico Marcenac e Ignacio Alvarado**.
+El trabajo fue realizado por **Ulises Fossati, Federico Marcenac y Ignacio Alvarado**.
 
 Cada integrante trabajó en su propia rama. Después, los cambios se unieron en la rama `dev` y, al finalizar el trabajo, se pasaron a la rama principal `main`.
 
